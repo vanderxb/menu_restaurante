@@ -1,0 +1,101 @@
+body {
+    background-image: url(https://images.pexels.com/photos/1660027/pexels-photo-1660027.jpeg);
+    background-size: 100%;
+    font-family: sans-serif;
+    padding: 20px;
+
+  }
+
+  h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+
+  h1, h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, serif;
+  }
+
+  .established {
+    font-style: italic;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+    color: #2E8B57;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: #F0F8F2;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+
+  img {
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: -25px;
+  }
+
+  hr {
+    height: 2px;
+    background-color: #D0D0D0;
+    border-color: #D0D0D0;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert{
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+
+  .bottom-line {
+    margin-top: 25px;
+  }
+
+  /*FOOTER*/
+
+  footer {
+    font-size: 14px;
+  }
+
+  a {
+    color: black;
+  }
+
+  a:visited {
+    color: black;
+  }
+
+  a:hover {
+    color: #D0D0D0;
+  }
+
+  a:active {
+    color:#D0D0D0;  
+  }
+
+  .address {
+    margin-bottom: 5px;
+  }
